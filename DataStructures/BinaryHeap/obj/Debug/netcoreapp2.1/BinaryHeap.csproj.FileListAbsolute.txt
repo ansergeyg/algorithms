@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\bin\Debug\netcoreapp2.1\BinaryHeap.deps.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\bin\Debug\netcoreapp2.1\BinaryHeap.runtimeconfig.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\bin\Debug\netcoreapp2.1\BinaryHeap.runtimeconfig.dev.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\bin\Debug\netcoreapp2.1\BinaryHeap.dll
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\bin\Debug\netcoreapp2.1\BinaryHeap.pdb
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\obj\Debug\netcoreapp2.1\BinaryHeap.csprojAssemblyReference.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\obj\Debug\netcoreapp2.1\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\obj\Debug\netcoreapp2.1\BinaryHeap.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\obj\Debug\netcoreapp2.1\BinaryHeap.AssemblyInfo.cs
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\obj\Debug\netcoreapp2.1\BinaryHeap.dll
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\BinaryHeap\obj\Debug\netcoreapp2.1\BinaryHeap.pdb
