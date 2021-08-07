@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.deps.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.runtimeconfig.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.runtimeconfig.dev.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.dll
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.pdb
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.csprojAssemblyReference.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.AssemblyInfo.cs
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.dll
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.pdb
