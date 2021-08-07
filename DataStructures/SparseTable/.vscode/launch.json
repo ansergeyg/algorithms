@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/DataStructures/BinaryHeap/bin/Debug/netcoreapp2.1/BinaryHeap.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.1/SparseTable.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/DataStructures/BinaryHeap",
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

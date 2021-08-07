@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\bin\Debug\netcoreapp2.1\SparseTable.deps.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\bin\Debug\netcoreapp2.1\SparseTable.runtimeconfig.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\bin\Debug\netcoreapp2.1\SparseTable.runtimeconfig.dev.json
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\bin\Debug\netcoreapp2.1\SparseTable.dll
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\bin\Debug\netcoreapp2.1\SparseTable.pdb
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\obj\Debug\netcoreapp2.1\SparseTable.csprojAssemblyReference.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\obj\Debug\netcoreapp2.1\SparseTable.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\obj\Debug\netcoreapp2.1\SparseTable.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\obj\Debug\netcoreapp2.1\SparseTable.AssemblyInfo.cs
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\obj\Debug\netcoreapp2.1\SparseTable.dll
+C:\Users\User\Documents\Code\algorithms\algorithms\DataStructures\SparseTable\obj\Debug\netcoreapp2.1\SparseTable.pdb
